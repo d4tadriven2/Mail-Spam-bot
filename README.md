@@ -1,2 +1,2 @@
 # Mail-Spam-bot
-Ein ziemlich schlechter mail spambot in Python.
+Ein Mail spambot fuer GMail in Python(SMTP).
